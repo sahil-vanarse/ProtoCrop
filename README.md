@@ -21,4 +21,4 @@ This application provides a basic interface for loading and viewing 3D models wi
 
 ### Setup
 1. Clone the repository
-2. Install required packages:
+2. Install required packages: Python3, Pillow
